@@ -1,20 +1,4 @@
-
-
-// document.body.appendChild(document.createElement('script')).src = 'https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.0.0/p5.min.js';
-// document.body.appendChild(document.createElement('script')).src = 'https://unpkg.com/ml5@latest/dist/ml5.min.js';
-
 console.log('ml-script loaded');
-
-// function preload() {
-//   console.log(ml5);
-//   classifier = ml5.imageClassifier('MobileNet');
-//   console.log('model loaded');
-// }
-
-// function setup() {
-//   console.log('model loaded');
-//   noCanvas()
-// }
 
 // When the model is loaded
 function modelLoaded() {
